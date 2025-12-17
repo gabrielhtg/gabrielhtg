@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm currently working on an image OCR project for bank statements at a company. I'm passionate about Linux, web programming, machine learning, and mobile development. I'm always open to collaboration on exciting projects.<br><br>Right now, I'm focusing on deepening my knowledge in machine learning and web development. Let's connect and build something amazing together!
+Hi there! I'm passionate about Linux, web programming, machine learning, and mobile development. I'm always open to collaboration on exciting projects.<br><br>Right now, I'm focusing on deepening my knowledge in machine learning and web development. Let's connect and build something amazing together!
 
 
 ## 🌐 Socials:
